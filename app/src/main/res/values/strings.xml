@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Palindrome</string>
+    <string name="item_name">Alan Prastowo</string>
+    <string name="item_email">alan@gmail.com</string>
+    <string name="choose_a_user">Choose a User</string>
+    <string name="selected_user">Selected User Name</string>
+    <string name="name">Name:</string>
+    <string name="welcome">Welcome</string>
+</resources>
